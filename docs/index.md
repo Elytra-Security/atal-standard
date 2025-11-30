@@ -44,3 +44,10 @@ Feedback will be accepted via **GitHub Issues** in the public ATAL repository.
 Steward: **Elytra Security**  
 Official site: **atal.elytrasecurity.com**
 
+---
+
+_Last updated: 30 November 2025_  
+
+© 2025 Elytra Security. All rights reserved for stewardship, versioning, and normative control of the ATAL Standard.  
+
+Licensed under the ATAL Documentation License (see [LICENSE.md](../LICENSE.md)).
