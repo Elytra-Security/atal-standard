@@ -1,5 +1,3 @@
-[Home](index.md) | [About ATAL](ABOUT_ATAL.md) | [ATAL Primer](ATAL_Primer.md) | [FAQ](FAQ.md)
-
 # ATAL FAQ  
 Public Review Draft v0.9
 
@@ -225,12 +223,25 @@ The standard remains vendor-neutral.
 
 ---
 
-End of document.
+## 21. Is ATAL an AI governance or risk management framework?
+
+No. ATAL does not replace organisational governance programs, risk scoring, or ethics frameworks, and it does not prescribe what your policies must be. ATAL does define mandatory runtime accountability boundaries and enforcement requirements (via gateways and a Safety Kernel) so AI actions remain governable, auditable, and reconstructable.
 
 ---
 
-_Last updated: 30 November 2025_  
+## 22. Does ATAL require blockchain or distributed ledger technology?
 
-© 2025 Elytra Security. All rights reserved for stewardship, versioning, and normative control of the ATAL Standard.  
+No. ATAL does not mandate blockchain, distributed ledgers, or consensus mechanisms. The term “ledger” is used conceptually to describe a system of record for accountability events.
 
-Licensed under the ATAL Documentation License (see [LICENSE.md](../LICENSE.md)).
+---
+
+## 23. Is ATAL similar to existing AI governance frameworks, audit logs, or observability tools?
+
+No. While ATAL may interoperate with governance frameworks, audit processes, or observability systems, 
+it is fundamentally different in purpose and design. 
+ATAL defines mandatory technical structures for accountability evidence and enforceable governance boundaries at runtime. 
+It does not prescribe policies, ethics, or organizational processes, nor does it rely on optional logging or monitoring mechanisms.
+
+---
+
+End of document.

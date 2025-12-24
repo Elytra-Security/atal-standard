@@ -1,5 +1,3 @@
-[Home](index.md) | [About ATAL](ABOUT_ATAL.md) | [ATAL Primer](ATAL_Primer.md) | [FAQ](FAQ.md)
-
 # About ATAL  
 Public Review Draft v0.9
 
@@ -11,6 +9,11 @@ ATAL (AI Traceability & Accountability Ledger) is a comprehensive standard desig
 Its goal is to ensure that every AI action — human-triggered or autonomous — is recorded in a way that supports regulatory scrutiny, forensic reconstruction, and operational governance.
 
 ATAL provides a unified, structured, tamper-evident approach to documenting AI decisions across all model types, industries, and jurisdictions.
+
+ATAL is an accountability and traceability standard. It defines mandatory evidence structures and required runtime accountability boundaries (including gateways and a Safety Kernel) for ATAL-conformant implementations, while leaving organisational policies, ethics programs, and risk methodologies to external frameworks.
+
+ATAL does not claim novelty based on the existence of accountability, logging, governance, or audit concepts in isolation. 
+Its novelty lies in the formalization of a deterministic, enforceable, and reconstructable accountability standard for AI systems, defined entirely through externally observable behavior and independent of model internals, cooperation, or implementation choices.
 
 ---
 
@@ -135,11 +138,3 @@ The current release (v0.9) is open for public review.
 ---
 
 End of document.
-
----
-
-_Last updated: 30 November 2025_  
-
-© 2025 Elytra Security. All rights reserved for stewardship, versioning, and normative control of the ATAL Standard.  
-
-Licensed under the ATAL Documentation License (see [LICENSE.md](../LICENSE.md)).

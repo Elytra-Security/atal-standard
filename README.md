@@ -5,12 +5,23 @@ Public Review Draft v0.9
 
 ## 1. Overview
 
+ATAL (AI Traceability and Accountability Ledger) is a technical accountability specification and reference model for recording externally observable artificial intelligence behavior as evidence.
+
+ATAL defines how inputs, outputs, decisions, and contextual metadata associated with AI systems may be captured as time-bound accountability events and preserved for audit, compliance, regulatory, or post-incident review.
+
+ATAL does not govern, control, enforce, or modify AI systems. It operates strictly as a non-intervening system of record based on externally observable behavior.
+
 ATAL (AI Traceability & Accountability Ledger) is a vendor-neutral, implementation-independent standard for recording, governing, and auditing the decisions made by AI systems.  
 It ensures that every AI action — whether initiated by a human or generated autonomously — is tied to a complete, tamper-evident evidence trail.
 
 ATAL enables regulators, enterprises, auditors, and courts to reconstruct what happened, why it happened, and whether it was permissible.
 
-This repository contains the reference documentation for the ATAL Standard.
+ATAL is intended to function as a normative technical standard, similar in role (but not scope) to protocol or compliance standards, and is designed to be implemented, audited, and certified independently of any specific vendor or product. This repository contains the reference documentation for the ATAL Standard.
+
+### What ATAL Is Not
+
+ATAL is not an AI governance framework, risk management framework, observability platform, explainability mechanism, or enforcement layer. It does not inspect model internals, analyze reasoning processes, or intervene in AI execution.
+
 
 ---
 
