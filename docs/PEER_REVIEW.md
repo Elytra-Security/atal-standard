@@ -59,7 +59,7 @@ Use the GitHub Issue template and include:
 - clear description  
 - rationale  
 - impact on safety, regulatory alignment, or clarity  
-- Peer review feedback MUST be submitted via GitHub Issues using the structured "ATAL Peer Review Submission" issue form. Blank issues are disabled to ensure review inputs remain specific, traceable, and triageable. Start a submission: [https://github.com/venkatmangudi-elytra/atal-standard/issues/new/choose]
+- Peer review feedback MUST be submitted via GitHub Issues using the structured "ATAL Peer Review Submission" issue form. Blank issues are disabled to ensure review inputs remain specific, traceable, and triageable. [Start a submission] (https://github.com/venkatmangudi-elytra/atal-standard/issues/new/choose)
 
 ### Step 3 — Discuss  
 Participants may engage in discussions within the Issue.  
