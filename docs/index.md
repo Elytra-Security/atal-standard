@@ -31,6 +31,7 @@ This site hosts the public review draft of ATAL v0.9 and its accompanying docume
 
 - [Peer Review Process](PEER_REVIEW.md)  
   How feedback is collected, reviewed, and incorporated. Submit peer review feedback via GitHub Issues using the structured form described in [Peer Review Process](PEER_REVIEW.md).
+
 ---
 
 ## Public peer review
